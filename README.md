@@ -39,3 +39,16 @@ Perfect for automating your job hunt or showcasing Python & Selenium skills in y
 ```bash
 git clone <your-repo-url>
 cd job-scraper
+2.Install dependencies
+
+Make sure you have Python 3 installed. Then, install required packages:
+
+pip install -r requirements.txt
+
+3.nstall Google Chrome
+
+The scraper uses Chrome for Selenium.
+
+Download Chrome: https://www.google.com/chrome/
+
+Ensure Chrome is in your system’s PATH (usually default after installation).
