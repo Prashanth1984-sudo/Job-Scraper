@@ -40,3 +40,39 @@ Perfect for automating your job hunt or showcasing Python & Selenium skills in y
 git clone <your-repo-url>
 cd job-scraper
 
+
+---
+
+### **2️⃣ Add Step 2: Install dependencies**
+
+Immediately after Step 1, continue the numbered list:
+
+```markdown
+2. **Install dependencies**
+
+Make sure you have **Python 3** installed. Then run:
+
+```bash
+pip install -r requirements.txt
+
+
+Notice that:
+
+- You **keep the numbering consistent** (Step 2)  
+- Use **bold** for the step title  
+- Explain what the command does in a blockquote (`> ...`)  
+
+---
+
+### **3️⃣ Add Step 3: Install Google Chrome**
+
+Directly after Step 2:
+
+```markdown
+3. **Install Google Chrome**
+
+The scraper uses Chrome with Selenium.
+
+- Download Chrome: [https://www.google.com/chrome/](https://www.google.com/chrome/)  
+- Make sure Chrome is **added to your system PATH** (usually automatic after installation)
+
